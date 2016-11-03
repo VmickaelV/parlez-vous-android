@@ -4,9 +4,12 @@
 
 .DS_Store
 
+node_modules
 gen
 target
 bin
 
 tmp
 eclipse
+
+.idea
